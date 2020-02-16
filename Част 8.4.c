@@ -27,9 +27,9 @@ int main(void)
 	LCD_DAT('<');
 	LCD_DAT('<');
 	LCD_DAT('T'); 
-    LCD_DAT('M');
-    LCD_DAT('i');
-    LCD_DAT('h');
+        LCD_DAT('M');
+        LCD_DAT('i');
+        LCD_DAT('h');
 	LCD_DAT('o');
 	LCD_DAT('v');
 	LCD_DAT('>');
